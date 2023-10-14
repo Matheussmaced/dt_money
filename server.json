@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 100,
       "createdAt": "2023-10-12T11:10:36.032Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso de programação",
+      "type": "income",
+      "category": "Aprendizado",
+      "price": 2999,
+      "createdAt": "2023-10-14T11:10:36.032Z"
     }
   ]
 }
