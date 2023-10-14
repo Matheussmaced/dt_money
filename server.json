@@ -19,7 +19,7 @@
     {
       "id": 3,
       "description": "Curso de programação",
-      "type": "income",
+      "type": "outcome",
       "category": "Aprendizado",
       "price": 2999,
       "createdAt": "2023-10-14T11:10:36.032Z"
