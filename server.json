@@ -23,6 +23,30 @@
       "category": "Aprendizado",
       "price": 2999,
       "createdAt": "2023-10-14T11:10:36.032Z"
+    },
+    {
+      "description": "desenvolver",
+      "price": 2000,
+      "category": "lucro",
+      "type": "income",
+      "createdAt": "2023-10-15T16:34:18.551Z",
+      "id": 4
+    },
+    {
+      "description": "hamburguer",
+      "price": 5,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-10-15T16:40:33.718Z",
+      "id": 5
+    },
+    {
+      "description": "Nintendo Switch",
+      "price": 1500,
+      "category": "Games",
+      "type": "outcome",
+      "createdAt": "2023-10-15T17:15:35.300Z",
+      "id": 6
     }
   ]
 }
